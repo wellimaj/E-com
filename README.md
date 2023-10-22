@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>E-commerce Backend API Documentation</title>
+E-commerce Backend API Documentation
 </head>
 <body>
 
@@ -115,7 +115,7 @@
 
 <p>Please note that the code structure and some types may not be optimal due to time constraints. Ensure you provide the required input data for each API endpoint as specified in the requests. Protected routes require a bearer token for access.</p>
 
-<p>For any questions or issues, please refer to the provided <code>.env</code> file or contact support.</p>
+
 
 </body>
 </html>
